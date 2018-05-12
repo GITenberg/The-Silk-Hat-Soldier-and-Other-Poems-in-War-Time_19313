@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/246
     wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19313#The-Silk-Hat-Soldier-and-Other-Poems-in-War-Time
 gutenberg_issued: '2006-09-19'
 gutenberg_type: Text
 identifiers:
